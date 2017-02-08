@@ -1,0 +1,13 @@
+{
+    "name": "devdojo/calculator",
+    "description": "dsgfsfsw",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "huwei",
+            "email": "wei.hu@haoqitech.com.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
