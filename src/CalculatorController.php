@@ -1,6 +1,6 @@
 <?php
 
-namespace Devdojo\Calculator;
+namespace Huwei1994\Testpack;
 
 use Illuminate\Http\Request;
 use App\Http\Requests;

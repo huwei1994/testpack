@@ -1,6 +1,6 @@
 <?php
 
-namespace Devdojo\Calculator;
+namespace Huwei1994\Testpack;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -25,6 +25,6 @@ class CalculatorServiceProvider extends ServiceProvider
     public function register()
     {
         //
-        $this->app->make('Devdojo\Calculator\CalculatorController');
+        $this->app->make('Huwei1994\Testpack\CalculatorController');
     }
 }
